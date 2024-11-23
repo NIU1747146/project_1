@@ -1,4 +1,4 @@
-Angel Moreno Renau NIU:1744714 
+Angel Moreno Renau NIU:1744714 <br>
 Manel Palomares Burgada NIU:1747146
 
 ## 📌 Descripció del programa ##
